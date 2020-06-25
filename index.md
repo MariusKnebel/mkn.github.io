@@ -49,3 +49,5 @@ Das ist mein Character!
 
 Zitat:
 > 1 + 1 = 2
+
+<img src="https://pbs.twimg.com/profile_images/747517697034952704/gHvVahDG.jpg"/>
