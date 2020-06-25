@@ -46,3 +46,6 @@ Das ist mein Character!
 * Nachname: Mustermann
 * Alter: 99
 * Geschlecht: m
+
+Zitat:
+> 1 + 1 = 2
